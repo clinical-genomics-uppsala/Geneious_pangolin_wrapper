@@ -19,8 +19,9 @@
 1. Download `pangolin_windows_x.x.gplugin`
 2. In Geneious, go to 'Tools' --> 'Plugins' --> 'Install plugin from a gplugin file' and select the gplugin file and click 'Install'. The plugin should now appear under the 'Tools' menu.
 3. When running the plugin the user will be prompted to enter the path to Docker (for example: `C:\Program Files\Docker\Docker\resources\bin\docker.exe`) and the path to where Geneious stores temporary data (for example: `C:\Geneious 2022.2 Data\transient`).  
-<br />
-<br />
+
+---
+
 ## Installation from source
 
 First install the [Geneious Wrapper Plugin Creator](https://www.geneious.com/api-developers/).
