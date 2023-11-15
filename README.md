@@ -35,7 +35,7 @@ First install the [Geneious Wrapper Plugin Creator](https://www.geneious.com/api
 	- 'Sequence Type:' select 'Nucleotide only'.
 	- 'Document Type:' select 'Unanaligned Sequences (1+)'.
 	- 'Command Line'
-		- '-i [inputFileNames] -o pangolin -g [inputFolderName] [otherOptions]'
+		- `-i [inputFileNames] -o pangolin -g [inputFolderName] [otherOptions]`
 	- Under 'Output' 'File Name:' fill in 'pangolin' and select 'Format:' 'Text file (plain)'
 4. Step 3:
 	Press 'Add' to add an user options:   
